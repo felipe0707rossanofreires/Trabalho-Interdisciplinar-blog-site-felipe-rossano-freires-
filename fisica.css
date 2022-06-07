@@ -1,0 +1,158 @@
+body{
+    background-color: rgb(203, 225, 234);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#menu{
+    width: 250px;
+    height: 251px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    background-color: cornflowerblue;
+
+}
+header{
+    background-color: #1867a9;
+    padding: 15px;
+    text-align: center;
+    height: 180px;
+}
+/* formataçao de links */
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+a{
+    color: white;
+    text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:hover{
+    background-color:#39f;
+    border-radius: 10px 20px;
+}
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+#h1-1{
+    color:rgb(22, 42, 80);
+    font-size: 35px;
+}
+#h2-1{
+    color:rgb(22, 42, 80);
+    font-size: 28px;
+}
+#h3-1{
+    color:rgb(22, 42, 80);
+    font-size: 25px; 
+}
+#parag-1{
+    color: black;
+    font-size: 18px;
+}
+#parag-2{
+    color: black;
+    font-size: 18px;
+}
+#parag-3{
+    color: black;
+    font-size: 18px;
+}
+#h3-2{
+    color:rgb(22, 42, 80);
+    font-size: 25px;  
+}
+#parag-4{
+    color: black;
+    font-size: 18px;
+}
+#h3-3{
+    color:rgb(22, 42, 80);
+    font-size: 25px;  
+}
+#parag-5{
+    color: black;
+    font-size: 18px;
+}
+#h3-4{
+    color:rgb(22, 42, 80);
+    font-size: 25px;  
+}
+#parag-6{
+    color: black;
+    font-size: 18px;
+}
+/* formataçao do main */
+main{
+    margin: 0 auto;
+    background-color:lightgray;
+    margin: 50px; ;
+    padding: 25px;
+}
+/*  formataçao da seçao 1 */
+.secao-1{
+    width: 100%;
+    background-color:lightgray;
+
+}
+/* conteudo do segundo bimestre formataçao */
+#img-1{
+    text-align: center;
+}
+#h3-5{
+    color:rgb(22, 42, 80);
+    font-size: 25px; 
+}
+#parag-7{
+    color: black;
+    font-size: 18px;  
+}
+#grifados-1{
+    background-color: yellow;
+}
+#img-2{
+    text-align: center;
+}
+#h3-6{
+    color:rgb(22, 42, 80);
+    font-size: 25px; 
+}
+#parag-8{
+    color: black;
+    font-size: 18px; 
+}
+#h3-7{
+    color:rgb(22, 42, 80);
+    font-size: 25px; 
+}
+#parag-9{
+    color: black;
+    font-size: 18px;
+}
+#h3-8{
+    color:rgb(22, 42, 80);
+    font-size: 25px; 
+}
+#parag-10{
+    color: black;
+    font-size: 18px;
+}
+
+
+
+
+#footer{
+    width: 300px center;
+    height: 50px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: cornflowerblue;
+}

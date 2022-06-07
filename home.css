@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(203, 225, 234);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* formataçao da imagem, e do menu navegaçao */
+#img1{
+    background-color: #1867a9;
+    padding: 25px;
+    height: 50px;
+    text-align:center;
+    height: 150px;
+}
+header{
+    background-color: #1867a9;
+    padding: 15px;
+    text-align: center;
+    height:250px;
+}
+/* formataçao de links */
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+a{
+    color: white;
+    text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:hover{
+    background-color:#39f;
+    border-radius: 10px 20px;
+}
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+/* formataçao de titulos subtitulos  e paragrafos  */
+#h1-1{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#parag-1{
+    color:black;
+    font-size: 20px;
+}
+#h1-2{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#lista{
+    color:black;
+    font-size: 20px;
+}
+#h1-3{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#parag-2{
+    color:black;
+    font-size: 20px;
+}
+/* formataçao do main */
+main{
+    margin: 0 auto;
+    background-color:lightgray;
+    margin: 50px; ;
+    padding: 25px;
+}
+/*  formataçao da seçao 1 */
+.secao-1{
+    width: 80%;
+    background-color:lightgray;
+}
+/* formataçao do footer */
+#footer{
+    width: 10000px center;
+    height: 50px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: cornflowerblue;
+}

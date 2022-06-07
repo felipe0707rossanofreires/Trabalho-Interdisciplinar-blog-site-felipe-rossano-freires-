@@ -1,0 +1,160 @@
+body{
+    background-color: rgb(203, 225, 234);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+/* formataçao do menu navegaçao */
+#menu{
+    width: 250px;
+    height: 251px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+header{
+    background-color: #1867a9;
+    padding: 15px;
+    text-align: center;
+    height: 180px;
+}
+/* formataçao de links */
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+a{
+    color: white;
+    text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:hover{
+    background-color:#39f;
+    border-radius: 10px 20px;
+}
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+/* formataçao de titulos subtitulos e textos */
+#h1-1{
+    color:rgb(22, 42, 80);
+    font-size: 35px;
+}
+#h2-1{
+    color:rgb(22, 42, 80);
+    font-size: 28px;
+}
+#h3-1{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#h2-2{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#parag-1{
+    color: black;
+    font-size: 18px;
+}
+#h2-3{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#h3-2{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#parag-2{
+    color: black;
+    font-size: 18px;
+}
+#parag3{
+    color: black;
+    font-size: 18px;
+}
+#img-1{
+    text-align: center;
+}
+/* Conteudo do segundo bimestre */
+#h2-4{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#parag-4{
+    color: black;
+    font-size: 18px;
+}
+#parag-5{
+    color: black;
+    font-size: 18px;
+}
+#parag-6{
+    color: black;
+    font-size: 18px;
+}
+#img-2{
+    text-align: center;
+}
+#img-3{
+    text-align: center;
+}
+#img-4{
+    text-align: center;
+}
+#h3-3{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#h3-4{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#h3-5{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+#h3-6{
+    color:rgb(22, 42, 80);
+    font-size: 25px;
+}
+/* formataçao dos textos grifados */
+#grifado-1{
+    background-color: yellow;
+}
+#grifado-2{
+    background-color: yellow;
+}
+#grifado-3{
+    background-color: yellow;
+}
+#grifado-4{
+    background-color: yellow;
+}
+/* formataçao do main */
+main{
+    margin: 0 auto;
+    background-color:lightgray;
+    margin: 50px; ;
+    padding: 25px;
+}
+/*  formataçao da seçao 1 */
+.secao-1{
+    width: 80%;
+    background-color:lightgray;
+
+}
+/* Conteudo do footer */
+#footer{
+    width: 300px center;
+    height: 65px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: cornflowerblue;
+}

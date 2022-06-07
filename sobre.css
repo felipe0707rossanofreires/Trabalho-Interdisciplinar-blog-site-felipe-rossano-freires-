@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(203, 225, 234);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+/* formataçao do menu navegaçao */
+#menu{
+    width: 250px;
+    height: 251px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+header{
+    background-color: #1867a9;
+    padding: 15px;
+    text-align: center;
+    height: 130px;
+}
+/* formataçao de links */
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+a{
+    color: white;
+    text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:hover{
+    background-color:#39f;
+    border-radius: 10px 20px;
+}
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+/* formataçao de titulos e subtitulos e textos */
+#h1-1{
+    color:rgb(22, 42, 80);
+    font-size: 35px;
+}
+#h2-1{
+    color:rgb(22, 42, 80);
+    font-size: 28px;
+}
+#parag-1{
+    color: black;
+    font-size: 18px;
+}
+#img-1{
+    text-align: center;
+}
+/* formataçao do main */
+main{
+    margin: 0 auto;
+    background-color:lightgray;
+    margin: 50px; ;
+    padding: 25px;
+}
+/*  formataçao da seçao 1 */
+.secao-1{
+    width: 100%;
+    background-color:lightgray;
+
+}
+#footer{
+    width: 300px center;
+    height: 50px;
+    border: 3px solid rgb(22, 42, 80);
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: cornflowerblue;
+}
